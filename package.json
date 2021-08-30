@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/PYJS123/User-reminders/issues"
   },
-  "homepage": "https://github.com/PYJS123/User-reminders#readme"
+  "homepage": "https://github.com/PYJS123/User-reminders#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
